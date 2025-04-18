@@ -24,7 +24,7 @@ Use Jenkins to build a simple Java Maven project to understand the basics of CI/
 
 **Contents**:
 
-- `src/main/java/HelloWorld.java`
+- `src/main/java/App.java`
   
 - `pom.xml`
 
