@@ -76,8 +76,8 @@ Use Jenkins to build a simple Java Maven project to understand the basics of CI/
 
 
 
-![Console Output 1](https://github.com/user-attachments/assets/3422802e-9897-436d-bd44-dd36b6160e11)
 
+![Console Output 2](https://github.com/user-attachments/assets/2de1fc70-337e-4f4b-ba3d-767770677974)
 
 
 
